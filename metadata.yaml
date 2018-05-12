@@ -1,0 +1,30 @@
+_repo: The-Temple-of-Nature--or-the-Origin-of-SocietyA-Poem-with-Philosophical-Notes_26861
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Darwin, Erasmus
+    birthdate: 1731
+    deathdate: 1802
+    gutenberg_agent_id: '3099'
+    url: http://www.gutenberg.org/2009/agents/3099
+    wikipedia: http://en.wikipedia.org/wiki/Erasmus_Darwin
+description: ''
+gutenberg_issued: '2008-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cosmology -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Life -- Origin -- Poetry'
+title: 'The Temple of Nature; or, the Origin of Society
+
+  A Poem, with Philosophical Notes'
+url: http://www.gutenberg.org/ebooks/26861
